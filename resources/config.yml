@@ -1,0 +1,7 @@
+---
+# enable commands: /kills /deaths and /kd.
+enable-commands: true
+
+# if disabled, death event does not add kills / deaths.
+enable-events: true
+...
