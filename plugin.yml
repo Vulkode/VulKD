@@ -2,4 +2,4 @@ name: VulKD
 main: VulKD\VulKD
 version: 1.0.0
 author: VulKode
-api: 3.0.0
+api: 5.0.0
